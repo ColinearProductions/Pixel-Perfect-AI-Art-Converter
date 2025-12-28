@@ -1,0 +1,29 @@
+{
+  "name": "pixel-perfect-ai-art-converter",
+  "version": "1.0.0",
+  "description": "AI-generated pixel art is popular, but it often isn’t truly “pixel perfect.” Many available solutions produce images that are too large, lack precision, or simply aren’t suitable as game assets. Pixel Perfect - AI Art Converter was built to address these challenges by giving you the ability to:",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinearProductions/Pixel-Perfect-AI-Art-Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinearProductions/Pixel-Perfect-AI-Art-Converter/issues"
+  },
+  "homepage": "https://github.com/ColinearProductions/Pixel-Perfect-AI-Art-Converter#readme",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
